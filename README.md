@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanrouai&label=Profile%20views&color=0e75b6&style=flat" alt="aidanrouai" /> </p>
 
-- 👨‍💻 All of my projects are available on [My Portfolio](aidanrouai.vercel.app)
-
 - 📫 How to reach me **aidanrouai2@gmail.com**
 
 - ⚡ Fun fact **I'm big into cars and motorsport**
