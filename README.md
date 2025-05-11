@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanrouai&label=Profile%20views&color=0e75b6&style=flat" alt="aidanrouai" /> </p>
 
-- 👨‍💻 All of my projects are available at [aidanrouai.vercel.app/](aidanrouai.vercel.app/)
+- 👨‍💻 All of my projects are available at aidanrouai.vercel.app/
 
 - 📫 How to reach me **aidanrouai2@gmail.com**
 
