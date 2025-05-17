@@ -1,15 +1,15 @@
-<h1 align="center">Hi I'm Aidan</h1>
+<h1 align="center">Hi, I'm Aidan</h1>
 <h3 align="center">A Computer Vision and Embedded Systems enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanrouai&label=Profile%20views&color=0e75b6&style=flat" alt="aidanrouai" /> </p>
 
 - 📫 How to reach me **aidanrouai2@gmail.com**
 
-- ⚡ Fun fact **I'm big into cars and motorsport**
+- ⚡ Fun fact **I love all things cars and motorsport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aidan-rouai-66454027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidan-rouai-66454027b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aidan-rouai-66454027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidan-rouai-66454027b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
