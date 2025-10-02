@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Aidan</h1>
 <h3 align="center">Embedded Systems enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanrouai&label=Profile%20views&color=0e75b6&style=flat" alt="aidanrouai" /> </p>
-
-- 📫 How to reach me **aidanrouai2@gmail.com**
+- 📫 Reach me at **aidanrouai2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
